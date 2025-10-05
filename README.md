@@ -1,6 +1,3 @@
-# Diabetes_Prediction_Logistic_Regression
-AI-based logistic regression model using sparse EHR data for early Type 2 Diabetes detection in developing nations. Includes dataset, Python model, and full research paper.
-
 # Diabetes Prediction using Logistic Regression
 
 This project demonstrates how **AI and Logistic Regression** can predict **Type 2 Diabetes** using sparse Electronic Health Record (EHR) data — particularly focused on **developing nations** where digital health data is limited.
